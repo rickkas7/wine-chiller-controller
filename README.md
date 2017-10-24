@@ -24,7 +24,7 @@ I also get push notifications on my phone if the temperature goes way out of nor
 
 ## Power Supply
 
-I replaced the power supply with a $14.98 12V 10A switching power supply that I got [from Amazon](https://www.amazon.com/LEDMO-Switching-Converter-Adapter-Transformer/dp/B01E6RMASC/ref=pd_ybh_a_4). It really only needs to be 5 to 6A, but the 10A was reasonable priced and offers a nice safety margin.
+I replaced the power supply with a $14.98 12V 10A switching power supply that I got [from Amazon](https://www.amazon.com/LEDMO-Switching-Converter-Adapter-Transformer/dp/B01E6RMASC/ref=pd_ybh_a_4). It really only needs to be 5 to 6A, but the 10A was reasonably priced and offers a nice safety margin.
 
 ![power supply](images/power-supply.jpg)
 
